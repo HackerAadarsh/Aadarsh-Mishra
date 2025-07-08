@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Advanced JavaScript, React, and Backend APIs**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AadarshMishra)
 - 💬 Ask me about **JavaScript, Django, React, HTML/CSS, Git**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **aadarshmishra2024@gmail.com**
 - ⚡ Fun fact: I love debugging code more than writing it 😂
 
 ---
