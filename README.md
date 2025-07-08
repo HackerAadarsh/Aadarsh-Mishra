@@ -1,38 +1,57 @@
-<h1 align="center">Hi 👋, I'm Aadarsh Mishra</h1>
-<h3 align="center">A passionate Full Stack Developer & lifelong learner from India</h3>
+# 👋 Hi, I'm Aadarsh Mishra
 
-- 🔭 I’m currently working on **JavaScript Projects and Django Dashboard**
-- 🌱 I’m learning **Advanced JavaScript, React, and Backend APIs**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AadarshMishra)
-- 💬 Ask me about **JavaScript, Django, React, HTML/CSS, Git**
-- 📫 How to reach me: **aadarshmishra2024@gmail.com**
-- ⚡ Fun fact: I love debugging code more than writing it 😂
+🎯 A passionate **Full Stack Developer** and **lifelong learner** from India  
+💻 Currently focused on **JavaScript projects** and building **Django dashboards**
 
 ---
 
-### 🛠️ Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+## 🚀 About Me
+
+- 🔭 Working on: **DSA in JavaScript**, **React.js Projects**, and **Backend APIs with Django**
+- 🌱 Learning: Advanced **JavaScript**, **React**, and **API development**
+- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/aadarshmishra)
+- 💬 Ask me about: `JavaScript`, `React`, `Django`, `HTML/CSS`, `Git`
+- 📫 Reach me at: [aadarshmishra2024@gmail.com](mailto:aadarshmishra2024@gmail.com)
+- ⚡ Fun fact: I enjoy **debugging code** more than writing it 😂
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadarshMishra&show_icons=true&theme=radical" height="170"/>
+## 📚 My DSA Journey
 
+I'm currently solving **250+ DSA problems using JavaScript** to sharpen my problem-solving skills and prepare for tech interviews.
+
+You can follow my progress here 👉 [DSA-JavaScript Repository](https://github.com/your-username/dsa-javascript)
+
+📌 Goals:
+- Solve 2–3 problems per day
+- Learn major patterns like **Sliding Window**, **Two Pointer**, **Recursion**, etc.
+- Revise tricky problems every 2–3 weeks
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🔗 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-12100E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
+## 📈 GitHub Stats
+
+![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadarshmishra&show_icons=true&theme=radical)
 
 ---
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aadarshmishra)  
+- [Twitter](https://twitter.com/yourhandle)  
+- [Portfolio](https://your-portfolio-link.com)
 
