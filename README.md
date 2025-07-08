@@ -1,4 +1,3 @@
-# Aadarsh-Mishra
 <h1 align="center">Hi 👋, I'm Aadarsh Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer & lifelong learner from India</h3>
 
@@ -36,3 +35,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-12100E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
 
 ---
+
